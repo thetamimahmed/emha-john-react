@@ -1,0 +1,15 @@
+.navbar{
+    margin: 0;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+}
+
+.menubar a{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    margin-right: 32px;
+}
