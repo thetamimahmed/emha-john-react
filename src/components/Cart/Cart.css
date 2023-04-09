@@ -7,3 +7,36 @@
 .cart p, h3{
     margin-top: 10px;
 }
+
+.clear-btn{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    border-radius: 4px;
+    margin: 10px auto;
+    color: white;
+    border: 0;
+    align-items: center;
+    cursor: pointer;
+    padding: 0px 8px;
+    font-weight: bold;
+}
+.btn-order{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    border-radius: 4px;
+    margin: 10px auto;
+    color: white;
+    border: 0;
+    align-items: center;
+    cursor: pointer;
+    padding: 0px 8px;
+    font-weight: bold;
+}
